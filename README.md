@@ -42,7 +42,7 @@ Beispielhaft sieht der Abschnitt dann wie folgt aus:
 Wichtig
 
     Stellen Sie sicher, dass Sie die Werte von variable_max_accel und variable_max_accel_to_decel entsprechend den Spezifikationen und Grenzen Ihres Druckers anpassen.
-    Der weitere G-Code bleibt unverändert.
+    Der weitere G-Code bleibt unverändert. (wenn sie ein drucker der K1 reie haben können sie die Einstellung so lassen)
 
 Unterstützung
 
