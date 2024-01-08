@@ -1,8 +1,10 @@
 Änderungen in der gcode_macro.cfg
 Überblick
 
-Dieses Repository enthält Anweisungen zur Modifikation der gcode_macro.cfg-Datei, um spezifische Makros für 3D-Druckeranwendungen anzupassen. Diese Änderungen betreffen vor allem die Anpassung von Beschleunigungswerten.
-Voraussetzungen
+Dieses Repository enthält Fehlerbehbungen der gcode_macro.cfg-Datei, Diese Änderungen betreffen vor allem die Anpassung von Beschleunigungswerten.
+
+
+Voraussetzungen:
 
 Bevor Sie diese Änderungen vornehmen, stellen Sie sicher, dass Sie Zugriff auf die gcode_macro.cfg-Datei Ihres 3D-Druckers haben und mit der Syntax von G-Code vertraut sind.
 Schritte zur Modifikation
